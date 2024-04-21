@@ -18,7 +18,6 @@ About me.
 
 ![Journey Peng](https://github-readme-stats.vercel.app/api/top-langs/?username=pengjeck&layout=compact)
 
-You can find me in:
 <a href="https://twitter.com/pjwhusir">
   <img align="right" alt="JourneyPeng | Twitter" width="21px" src="https://raw.githubusercontent.com/pengjeck/pengjeck/main/assets/twitter.svg" />
 </a>
