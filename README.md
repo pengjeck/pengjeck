@@ -20,8 +20,8 @@ About me.
 
 You can find me in:
 <a href="https://twitter.com/pjwhusir">
-  <img align="right" alt="JourneyPeng | Twitter" width="21px" src="https://raw.githubusercontent.com/pengjeck/pengjeck/master/assets/twitter.svg" />
+  <img align="right" alt="JourneyPeng | Twitter" width="21px" src="https://raw.githubusercontent.com/pengjeck/pengjeck/main/assets/twitter.svg" />
 </a>
 <a href="http://journeypeng.best">
-  <img align="right" alt="JourneyPeng | Blog" width="21px" src="https://raw.githubusercontent.com/pengjeck/pengjeck/master/assets/128-avatar.webp" />
+  <img align="right" alt="JourneyPeng | Blog" width="21px" src="https://raw.githubusercontent.com/pengjeck/pengjeck/main/assets/128-avatar.webp" />
 </a>
