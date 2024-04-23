@@ -1,4 +1,4 @@
-# pengjeck [bio](https://jingle.bio/journeypeng)
+# pengjeck 
 
 I'm a full stack developer from China 🇨🇳
 
@@ -22,5 +22,8 @@ About me.
   <img align="right" alt="JourneyPeng | Twitter" width="21px" src="https://raw.githubusercontent.com/pengjeck/pengjeck/main/assets/twitter.svg" />
 </a>
 <a href="http://journeypeng.best">
+  <img align="right" alt="JourneyPeng | Blog" width="21px" src="https://raw.githubusercontent.com/pengjeck/pengjeck/main/assets/128-avatar.webp" />
+</a>
+<a href="https://jingle.bio/journeypeng">
   <img align="right" alt="JourneyPeng | Blog" width="21px" src="https://raw.githubusercontent.com/pengjeck/pengjeck/main/assets/128-avatar.webp" />
 </a>
