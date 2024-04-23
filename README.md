@@ -1,4 +1,4 @@
-# pengjeck
+# pengjeck [bio](https://jingle.bio/journeypeng)
 
 I'm a full stack developer from China 🇨🇳
 
