@@ -8,7 +8,7 @@ About me.
 
 🎨 The primary languages I use in my work are Java and C++
 
-📈 Built open-source projects like: rss-schadule-storage, smartzoom and more using Python and Javascript
+📈 Built open-source projects like: [rss-schadule-storage](https://github.com/pengjeck/rss-schedule-storage), [smartzoom](https://smartzoom.fun/) and more using Python and Javascript
 
 ✍️ I wrote dev articles on [My Blog](http://journeypeng.best)
 
@@ -24,6 +24,6 @@ About me.
 <a href="http://journeypeng.best">
   <img align="right" alt="JourneyPeng | Blog" width="21px" src="https://raw.githubusercontent.com/pengjeck/pengjeck/main/assets/128-avatar.webp" />
 </a>
-<a href="https://jingle.bio/journeypeng">
-  <img align="right" alt="JourneyPeng | Blog" width="21px" src="https://raw.githubusercontent.com/pengjeck/pengjeck/main/assets/128-avatar.webp" />
+<a href="http://smartzoom.fun">
+  <img align="right" alt="SmartZoom | Blog" width="21px" src="https://raw.githubusercontent.com/pengjeck/pengjeck/main/assets/128-smartzoom.png" />
 </a>
